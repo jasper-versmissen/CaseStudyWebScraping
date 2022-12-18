@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="bin\Debug\outputYoutube.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Pipelines.Sockets.Unofficial" Version="2.2.2" />
     <PackageReference Include="Selenium.WebDriver" Version="4.7.0" />
     <PackageReference Include="System.IO.FileSystem" Version="4.3.0" />

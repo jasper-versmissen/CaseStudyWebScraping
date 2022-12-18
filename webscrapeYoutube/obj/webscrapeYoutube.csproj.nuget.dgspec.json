@@ -53,7 +53,15 @@
               "target": "Package",
               "version": "[4.7.0, )"
             },
+            "System.IO": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "System.IO.FileSystem": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.IO.FileSystem.Primitives": {
               "target": "Package",
               "version": "[4.3.0, )"
             }

@@ -9,7 +9,7 @@ using System.Diagnostics;
 using static System.Net.WebRequestMethods;
 using System.Collections.ObjectModel;
 using Pipelines.Sockets.Unofficial.Buffers;
-
+using System.IO;
 
 
 
@@ -22,7 +22,8 @@ namespace webscraping
         {
             String Search = "mrbeast";
             String url = "https://www.youtube.com/results?search_query=" + Search;
-            int vcount = 1;          
+            int vcount = 1;
+            File file = new File("outputYoutube.txt");
             driver = new ChromeDriver();
             driver.Navigate().GoToUrl(url);
             var discoverButton = driver.FindElement(By.XPath("//*[@id=\"content\"]/div[2]/div[6]/div[1]/ytd-button-renderer[2]/yt-button-shape"));
@@ -31,6 +32,7 @@ namespace webscraping
             By elem_videos_link = By.Id("dismissible");
             ReadOnlyCollection<IWebElement> videos = driver.FindElements(elem_videos_link);
             Console.WriteLine("Total number of videos in " + url + " are " + videos.Count);
+            
             
 
             /* Go through the Videos List and scrap the same to get the attributes of the videos in the channel */
