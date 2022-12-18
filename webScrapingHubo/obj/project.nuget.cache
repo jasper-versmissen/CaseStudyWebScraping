@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TAzmbQlo4QIzQe4zsK2y8Wx5SeMswxqr2VVEUxYevrhW8jmoz6UujCzGXyQaHi9lHTx5Ug6wRLKvFPbClCqiEg==",
+  "dgSpecHash": "EmEr5jYmTCSvLY7XQOZC/oUFXy4a6rnvUCt6++jY2zTcrxbnYOK4GON2oSN5718K1GWIYEMOZE7jBOmXVBEOGA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaspe\\source\\repos\\webScrapingHubo\\webScrapingHubo.csproj",
+  "projectFilePath": "C:\\Users\\jaspe\\OneDrive\\Documents\\thomas more\\jaar 2\\trimester 1\\devops\\wwepscarping\\webScrapingHubo\\webScrapingHubo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jaspe\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\jaspe\\.nuget\\packages\\selenium.webdriver\\4.7.0\\selenium.webdriver.4.7.0.nupkg.sha512"

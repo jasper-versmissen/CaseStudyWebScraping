@@ -10,7 +10,9 @@
         "dependencies": {
           "Pipelines.Sockets.Unofficial": "2.2.2",
           "Selenium.WebDriver": "4.7.0",
-          "System.IO.FileSystem": "4.3.0"
+          "System.IO": "4.3.0",
+          "System.IO.FileSystem": "4.3.0",
+          "System.IO.FileSystem.Primitives": "4.3.0"
         },
         "runtime": {
           "webscrapeYoutube.dll": {}

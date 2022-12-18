@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaspe\\source\\repos\\webscrapjob\\webscrapjob.csproj": {}
+    "C:\\Users\\jaspe\\OneDrive\\Documents\\thomas more\\jaar 2\\trimester 1\\devops\\wwepscarping\\webscrapjob\\webscrapjob.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaspe\\source\\repos\\webscrapjob\\webscrapjob.csproj": {
+    "C:\\Users\\jaspe\\OneDrive\\Documents\\thomas more\\jaar 2\\trimester 1\\devops\\wwepscarping\\webscrapjob\\webscrapjob.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaspe\\source\\repos\\webscrapjob\\webscrapjob.csproj",
+        "projectUniqueName": "C:\\Users\\jaspe\\OneDrive\\Documents\\thomas more\\jaar 2\\trimester 1\\devops\\wwepscarping\\webscrapjob\\webscrapjob.csproj",
         "projectName": "webscrapjob",
-        "projectPath": "C:\\Users\\jaspe\\source\\repos\\webscrapjob\\webscrapjob.csproj",
+        "projectPath": "C:\\Users\\jaspe\\OneDrive\\Documents\\thomas more\\jaar 2\\trimester 1\\devops\\wwepscarping\\webscrapjob\\webscrapjob.csproj",
         "packagesPath": "C:\\Users\\jaspe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaspe\\source\\repos\\webscrapjob\\obj\\",
+        "outputPath": "C:\\Users\\jaspe\\OneDrive\\Documents\\thomas more\\jaar 2\\trimester 1\\devops\\wwepscarping\\webscrapjob\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

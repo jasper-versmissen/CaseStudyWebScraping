@@ -19,3 +19,24 @@ C:\Users\jaspe\source\repos\webScrapingHubo\obj\Debug\net6.0\refint\webScrapingH
 C:\Users\jaspe\source\repos\webScrapingHubo\obj\Debug\net6.0\webScrapingHubo.pdb
 C:\Users\jaspe\source\repos\webScrapingHubo\obj\Debug\net6.0\webScrapingHubo.genruntimeconfig.cache
 C:\Users\jaspe\source\repos\webScrapingHubo\obj\Debug\net6.0\ref\webScrapingHubo.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\bin\Debug\net6.0\webScrapingHubo.exe
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\bin\Debug\net6.0\webScrapingHubo.deps.json
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\bin\Debug\net6.0\webScrapingHubo.runtimeconfig.json
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\bin\Debug\net6.0\webScrapingHubo.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\bin\Debug\net6.0\webScrapingHubo.pdb
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\bin\Debug\net6.0\WebDriver.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\obj\Debug\net6.0\webScrapingHubo.csproj.AssemblyReference.cache
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\obj\Debug\net6.0\webScrapingHubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\obj\Debug\net6.0\webScrapingHubo.AssemblyInfoInputs.cache
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\obj\Debug\net6.0\webScrapingHubo.AssemblyInfo.cs
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\obj\Debug\net6.0\webScrapingHubo.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\obj\Debug\net6.0\webScrapingHubo.csproj.CopyComplete
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\obj\Debug\net6.0\webScrapingHubo.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\obj\Debug\net6.0\refint\webScrapingHubo.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\obj\Debug\net6.0\webScrapingHubo.pdb
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\obj\Debug\net6.0\webScrapingHubo.genruntimeconfig.cache
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webScrapingHubo\obj\Debug\net6.0\ref\webScrapingHubo.dll

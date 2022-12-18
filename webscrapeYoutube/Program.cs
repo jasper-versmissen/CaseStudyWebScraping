@@ -22,8 +22,7 @@ namespace webscraping
         {
             String Search = "mrbeast";
             String url = "https://www.youtube.com/results?search_query=" + Search;
-            int vcount = 1;
-            File file = new File("outputYoutube.txt");
+            int vcount = 1;            
             driver = new ChromeDriver();
             driver.Navigate().GoToUrl(url);
             var discoverButton = driver.FindElement(By.XPath("//*[@id=\"content\"]/div[2]/div[6]/div[1]/ytd-button-renderer[2]/yt-button-shape"));
