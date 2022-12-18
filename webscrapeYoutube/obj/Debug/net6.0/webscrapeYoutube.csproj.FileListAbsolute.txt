@@ -1,0 +1,44 @@
+C:\Users\jaspe\source\repos\webscrapeYoutube\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\jaspe\source\repos\webscrapeYoutube\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\jaspe\source\repos\webscrapeYoutube\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\jaspe\source\repos\webscrapeYoutube\bin\Debug\net6.0\webscrapeYoutube.exe
+C:\Users\jaspe\source\repos\webscrapeYoutube\bin\Debug\net6.0\webscrapeYoutube.deps.json
+C:\Users\jaspe\source\repos\webscrapeYoutube\bin\Debug\net6.0\webscrapeYoutube.runtimeconfig.json
+C:\Users\jaspe\source\repos\webscrapeYoutube\bin\Debug\net6.0\webscrapeYoutube.dll
+C:\Users\jaspe\source\repos\webscrapeYoutube\bin\Debug\net6.0\webscrapeYoutube.pdb
+C:\Users\jaspe\source\repos\webscrapeYoutube\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jaspe\source\repos\webscrapeYoutube\bin\Debug\net6.0\WebDriver.dll
+C:\Users\jaspe\source\repos\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.csproj.AssemblyReference.cache
+C:\Users\jaspe\source\repos\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaspe\source\repos\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.AssemblyInfoInputs.cache
+C:\Users\jaspe\source\repos\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.AssemblyInfo.cs
+C:\Users\jaspe\source\repos\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\source\repos\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.csproj.CopyComplete
+C:\Users\jaspe\source\repos\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.dll
+C:\Users\jaspe\source\repos\webscrapeYoutube\obj\Debug\net6.0\refint\webscrapeYoutube.dll
+C:\Users\jaspe\source\repos\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.pdb
+C:\Users\jaspe\source\repos\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.genruntimeconfig.cache
+C:\Users\jaspe\source\repos\webscrapeYoutube\obj\Debug\net6.0\ref\webscrapeYoutube.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\webscrapeYoutube.exe
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\webscrapeYoutube.deps.json
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\webscrapeYoutube.runtimeconfig.json
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\webscrapeYoutube.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\webscrapeYoutube.pdb
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\WebDriver.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.csproj.AssemblyReference.cache
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.AssemblyInfoInputs.cache
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.AssemblyInfo.cs
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.csproj.CoreCompileInputs.cache
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.csproj.CopyComplete
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\obj\Debug\net6.0\refint\webscrapeYoutube.dll
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.pdb
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\obj\Debug\net6.0\webscrapeYoutube.genruntimeconfig.cache
+C:\Users\jaspe\OneDrive\Documents\thomas more\jaar 2\trimester 1\devops\wwepscarping\webscrapeYoutube\obj\Debug\net6.0\ref\webscrapeYoutube.dll
